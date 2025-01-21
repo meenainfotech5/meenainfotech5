@@ -1,19 +1,14 @@
 
- <img align="center" alt="coding img-cover" src="https://github.com/user-attachments/assets/2157fa27-859b-4be4-9392-ab7108aebdcd" width="100%" height="300px"/>
-
+ <img align="center" alt="coding img-cover" src="https://github.com/user-attachments/assets/2157fa27-859b-4be4-9392-ab7108aebdcd" width="100%" height="250px"/>
  <br>
- 
- 
- 
+
  # Hi 👋, I'm  Meena AnandhaKrishnan
 
+ ### I am seeking opportunities to join a company that help me in enhanching my skills and strengthening my knowledge.
+ 
+ <img align="right" src="https://github.com/user-attachments/assets/539484d3-3598-4d5e-bf86-1b14996b9551" width="300px"/>
 
-<img align="right" alt="working women gif" src="https://github.com/user-attachments/assets/38ffa44c-5cca-4f02-b7c9-8cd23de8613d" width="350px"/>
-
-
-- 👀 I’m interested in **Frontend Developer**
-
-- 🌱 I’m currently learning **Reactjs**
+- 👀 I’m interested in **Frontend Development**
 
 - My portfolio [https://harish-ten.vercel.app/](https://harish-ten.vercel.app/)
 
