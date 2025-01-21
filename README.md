@@ -8,6 +8,8 @@
  
  <img align="right" src="https://github.com/user-attachments/assets/539484d3-3598-4d5e-bf86-1b14996b9551" width="300px"/>
 
+ <br>
+
 - 👀 I’m interested in **Frontend Development**
 
 - My portfolio [https://harish-ten.vercel.app/](https://harish-ten.vercel.app/)
@@ -22,6 +24,9 @@
 
 <img alt = "Top Langs"  align="left" width="47%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=meenainfotech5&layout=compact"/>
 
+<br> 
+
+<img alt ="My Activity Graph" align="left" src ="https://github-readme-activity-graph.vercel.app/graph?username=meenainfotech5&theme=github-compact"/>
 
 
 
