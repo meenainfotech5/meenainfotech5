@@ -12,7 +12,7 @@
 
 - I’m interested in **Frontend Development**
 
-- My portfolio [https://infotechportfolio.netlify.app/](https:infotechportfolio.netlify.app)
+- My portfolio [https://infotechportfolio.netlify.app/](https://infotechportfolio.netlify.app/)  
 
 - How to reach me **meenainfotech5@gmail.com**
 
