@@ -4,17 +4,17 @@
 
  # Hi 👋, I'm  Meena AnandhaKrishnan
 
- ### I am seeking opportunities to join a company that help me in enhanching my skills and strengthening my knowledge.
+ ### I am passionate Frontend Developer eager to create beautiful and user-friendly web experiences and am seeking opportunities to join a company that help me in enhanching my skills and strengthening my knowledge.
  
  <img align="right" src="https://github.com/user-attachments/assets/539484d3-3598-4d5e-bf86-1b14996b9551" width="300px"/>
 
  <br>
 
-- 👀 I’m interested in **Frontend Development**
+- I’m interested in **Frontend Development**
 
-- My portfolio [https://harish-ten.vercel.app/](https://harish-ten.vercel.app/)
+- My portfolio [https://infotechportfolio.netlify.app/](https:infotechportfolio.netlify.app)
 
-- 📫 How to reach me **meenainfotech5@gmail.com**
+- How to reach me **meenainfotech5@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 
