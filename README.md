@@ -4,11 +4,10 @@
 
  # Hi 👋, I'm  Meena AnandhaKrishnan
 
- ### I am passionate Frontend Developer eager to create beautiful and user-friendly web experiences and am seeking opportunities to join a company that help me in enhanching my skills and strengthening my knowledge.
- 
- <img align="right" src="https://github.com/user-attachments/assets/539484d3-3598-4d5e-bf86-1b14996b9551" width="300px"/>
+ ## Frontend Developer with a passion for building clean, responsive, and user-friendly web interfaces. I’m currently leveling up my skills in React JS and love turning ideas into interactive, real-world projects. Always exploring new tech and looking forward to collaborating on cool frontend stuff!
 
- <br>
+ 
+ 
 
 - I’m interested in **Frontend Development**
 
