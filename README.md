@@ -1,6 +1,9 @@
+![White Minimalist Profile LinkedIn Banner](https://github.com/user-attachments/assets/b27679ec-5c45-4758-b757-3fb4c5ac767a)
 
- <img align="center" alt="coding img-cover" src="https://github.com/user-attachments/assets/be13569e-981a-4547-b5f2-84b3f5f6d7e4" width="100%" height="250px"/>
- <br>
+
+
+ 
+  <br>
 
  # Hi 👋, I'm  Meena AnandhaKrishnan
 
